@@ -10,3 +10,14 @@ Welcome to the AI-Powered Travel Planner application! This Full Stack React Nati
 - **🗺️ Interactive Maps:** Visualize your trip with detailed maps and routes.
 - **📅 Itinerary Management:** Keep track of your travel plans and stay organized.
 - **📱 Cross-Platform:** Available on both iOS and Android devices.
+ 
+
+
+
+
+
+
+
+
+
+
